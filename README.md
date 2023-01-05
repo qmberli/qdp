@@ -10,6 +10,6 @@ To start lets highlight all the new content using a marker pair. </p>
  <p> This means that all the new content will be highlighted with a pale yellow color because I will open it with a "<mark>' and close it with a "</mark>"
   
   Lets see it in action:
-    <mark> Hello World, my name is Kimberly, my friends call me, "Qm"</mark>
+    <mark> Hello World, my name is Kimberly, my friends call me, "Qm"</mark></p>
     
-    so it is marked in mark down, but where is it hosted?</p>
+ 
